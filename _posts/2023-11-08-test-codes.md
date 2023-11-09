@@ -29,7 +29,8 @@ for key, value in items_tuples:
 
 ###C++
 
-'''C++
+'''c++
+
 #include <bits/stdc++.h>
 using namespace std;
 
