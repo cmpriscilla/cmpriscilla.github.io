@@ -5,7 +5,7 @@ Test out Various Codes
 
 ### Python
 
-```
+```py
 keys_list = ['A', 'B', 'C']
 values_list = ['blue', 'red', 'bold']
 
@@ -29,7 +29,7 @@ for key, value in items_tuples:
 
 ### C++
 
-```
+```c
 
 #include <bits/stdc++.h>
 using namespace std;
